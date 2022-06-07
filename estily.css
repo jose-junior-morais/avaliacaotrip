@@ -1,8 +1,8 @@
 @charset "UTF-8";
 
 .conteiner {
-    width: 90vw;
-    height: 200vh;
+    width: 100%;
+    height: 100%;
     position:relative;
     background-color: #EEE;
     display:flex;
