@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+.conteiner {
+    width: 90vw;
+    height: 200vh;
+    position:relative;
+    background-color: #EEE;
+    display:flex;
+    justify-content: center;
+}
+
+/* titulo*/
+h1 {
+    text-align: center; 
+      
+}
+/*botoes*/
+button {
+    padding: 10px;
+    border-radius: 24px;
+}
+
+fieldset{
+    padding:20px;
+}
+legend{
+    padding: 10px;
+}
+/*rodape*/
+footer {
+    text-align: center;
+    padding: 60px;
+}
+/*imagem do link*/
+img {
+    
+}
+
